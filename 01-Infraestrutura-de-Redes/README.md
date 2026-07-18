@@ -42,10 +42,10 @@ As atividades incluíram a confecção de cabos de rede RJ-45, organização e c
 
 ## Imagens
 
-As imagens apresentam parte da atividade prática, incluindo a montagem do cabo RJ-45, a organização dos cabos no patch panel e o resultado final da prática em laboratório.
-
-## Imagens
-
 ### Cabo RJ-45
 ![Cabo RJ-45](IMG_7583.jpeg)
+
+### Organização do Patch Panel
+
+![Patch Panel](d9cec503-b828-4a26-8a75-3dbf14a30a02.jpeg)
 
