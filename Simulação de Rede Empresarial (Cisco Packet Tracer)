@@ -1,0 +1,40 @@
+# Projeto 02 - Simulação de Rede Empresarial (Cisco Packet Tracer)
+
+## Objetivo
+
+Simular uma infraestrutura de rede empresarial utilizando o Cisco Packet Tracer, conectando diferentes setores da empresa e realizando testes de conectividade.
+
+## Descrição
+
+Durante a atividade prática da disciplina de Redes de Computadores, desenvolvi uma topologia de rede simulando um ambiente corporativo no Cisco Packet Tracer.
+
+A rede foi organizada em setores, utilizando switches, roteador e dispositivos finais, permitindo compreender o funcionamento da comunicação entre os equipamentos.
+
+## Equipamentos utilizados
+
+- Cisco Packet Tracer
+- Switches
+- Roteador
+- Computadores
+- Smartphones
+- Cabos de rede
+
+## Atividades realizadas
+
+- Montagem da topologia da rede.
+- Interligação dos dispositivos.
+- Configuração básica dos equipamentos.
+- Testes de conectividade entre os dispositivos.
+- Simulação do funcionamento de uma rede corporativa.
+
+## Competências desenvolvidas
+
+- Topologias de rede
+- Infraestrutura de redes
+- Cisco Packet Tracer
+- Configuração básica de dispositivos
+- Testes de conectividade
+
+## Imagens
+
+*(As capturas de tela da topologia serão adicionadas abaixo.)*
