@@ -39,4 +39,8 @@ Foram criadas máquinas virtuais utilizando o Oracle VirtualBox, incluindo insta
 
 ## Imagens
 
-*(As capturas de tela serão adicionadas abaixo.)*
+![Imagem 1](IMG_7916.jpeg)
+
+![Imagem 2](IMG_7917.jpeg)
+
+![Imagem 3](IMG_7918.jpeg)
